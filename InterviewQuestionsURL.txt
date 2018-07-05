@@ -1,3 +1,7 @@
 https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers
 
 https://github.com/in28minutes/spring-interview-guide/blob/master/spring-interview-questions.pdf
+
+https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/
+
+http://www.java2novice.com/java-interview-questions/
